@@ -1,4 +1,4 @@
-<img src="assets/brand/pluristack-logo-small.svg" alt="Pluristack" width="180">
+<img src="assets/brand/pluristack-logo-small-white.svg" alt="Pluristack" width="180">
 
 # RedesignMyApp — by Pluristack
 
