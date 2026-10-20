@@ -290,7 +290,7 @@ Claude Design is asked to end with this block. Step 4 parses it; if Claude Desig
 - `tokens.json` — current design tokens (machine-readable).
 - `screens/` — screenshots of the current UI, named `<screen>--<viewport>--<scheme>.png`.
 - `brand/` — the app's own logo and brand files found in the repository (if any).
-- `pluristack/` — Pluristack signature assets (not part of the app's brand).
+- `assets/` — Pluristack signature logos used by the documents' header (not part of the app's brand).
 - `inventory-summary.md` — condensed component and screen tables for quick reference.
 
 Element IDs (`tok.*`, `cmp.*`, `scr.*`) must be preserved in all outputs.
