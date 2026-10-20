@@ -32,7 +32,7 @@ README = """# Package contents — RedesignMyApp by Pluristack
 - `tokens.json` — current design tokens (machine-readable), with per-theme values and data palettes when the app has them.
 - `inventory-summary.md` — condensed component, screen, layout, palette, pattern and issue tables.
 - `00-brief.md`, `02-design-review.md` — project interview and design review (the user's decisions are in the review's Decisions section).
-- `screens/` — screenshots of the current UI, named `<screen>--<viewport>--<scheme>.png`.
+- `screens/` — screenshots of the current UI, named `<screen>--[<state>--]<viewport>--<scheme>.<png|webp|jpg>`.
 - `brand/` — the app's own logo, icons and brand files found in the repository (if any); keep them.
 - `assets/` — Pluristack signature logos used by the documents' header (not part of the app's brand).
 
